@@ -1,1 +1,11 @@
-
+order_id,station_id,date,city,energy_kwh,amount,user_type
+1,S001,2026-01-01,Shenzhen,35,42,new
+2,S002,2026-01-01,Shenzhen,50,60,old
+3,S003,2026-01-01,Shanghai,40,48,new
+4,S001,2026-01-02,Shenzhen,70,84,old
+5,S002,2026-01-02,Shanghai,30,36,new
+6,S003,2026-01-02,Beijing,60,72,old
+7,S001,2026-01-03,Beijing,45,54,new
+8,S002,2026-01-03,Shanghai,80,96,old
+9,S003,2026-01-03,Shenzhen,55,66,new
+10,S001,2026-01-04,Shanghai,90,108,old
